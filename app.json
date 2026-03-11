@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "TapEarn Pro",
+    "slug": "tapEarnPro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.tapEarnPro.app",
+      "versionCode": 1
+    }
+  }
+}
