@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TapEarn Pro",
-    "slug": "tap-earn-pro",
+    "slug": "nitin3292",
     "version": "1.0.0",
     "orientation": "portrait",
     "newArchEnabled": false,
@@ -18,11 +18,6 @@
       "package": "com.nitin.tapEarnPro",
       "versionCode": 1
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
