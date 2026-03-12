@@ -5,16 +5,18 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "newArchEnabled": false,
-    "android": {
-      "package": "com.nitin.tapEarnPro",
-      "versionCode": 1,
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
+    "extra": {
+      "eas": {
+        "projectId": "59c2b98a-cacc-40c7-8c4c-8174af06384e"
       }
     },
-    "splash": {
-      "backgroundColor": "#000000"
+    "ios": {
+      "bundleIdentifier": "com.nitin.tapEarnPro",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.nitin.tapEarnPro",
+      "versionCode": 1
     },
     "updates": {
       "fallbackToCacheTimeout": 0
