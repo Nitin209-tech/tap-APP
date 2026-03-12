@@ -1,12 +1,26 @@
 {
   "expo": {
     "name": "TapEarn Pro",
-    "slug": "tapEarnPro",
+    "slug": "tap-earn-pro",
     "version": "1.0.0",
     "orientation": "portrait",
+    "newArchEnabled": false,
     "android": {
-      "package": "com.tapEarnPro.app",
-      "versionCode": 1
-    }
+      "package": "com.nitin.tapEarnPro",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "splash": {
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
   }
 }
